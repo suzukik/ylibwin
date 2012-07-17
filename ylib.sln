@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ylib", "ylib\ylib.vcxproj", "{63048285-55D0-4503-A306-905EE4978C3F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ylibtest1", "ylibtest1\ylibtest1.vcxproj", "{74C48309-C44F-4998-8063-D365F879E361}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ylibtest2", "ylibtest2\ylibtest2.vcxproj", "{9D342787-4E43-4578-BE5A-C47050B11552}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mulithread1", "mulithread1\mulithread1.vcxproj", "{23FC8C85-8279-473C-A0FA-B010CB12B562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63048285-55D0-4503-A306-905EE4978C3F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{63048285-55D0-4503-A306-905EE4978C3F}.Debug|Win32.Build.0 = Debug|Win32
+		{63048285-55D0-4503-A306-905EE4978C3F}.Release|Win32.ActiveCfg = Release|Win32
+		{63048285-55D0-4503-A306-905EE4978C3F}.Release|Win32.Build.0 = Release|Win32
+		{74C48309-C44F-4998-8063-D365F879E361}.Debug|Win32.ActiveCfg = Debug|Win32
+		{74C48309-C44F-4998-8063-D365F879E361}.Debug|Win32.Build.0 = Debug|Win32
+		{74C48309-C44F-4998-8063-D365F879E361}.Release|Win32.ActiveCfg = Release|Win32
+		{74C48309-C44F-4998-8063-D365F879E361}.Release|Win32.Build.0 = Release|Win32
+		{9D342787-4E43-4578-BE5A-C47050B11552}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9D342787-4E43-4578-BE5A-C47050B11552}.Debug|Win32.Build.0 = Debug|Win32
+		{9D342787-4E43-4578-BE5A-C47050B11552}.Release|Win32.ActiveCfg = Release|Win32
+		{9D342787-4E43-4578-BE5A-C47050B11552}.Release|Win32.Build.0 = Release|Win32
+		{23FC8C85-8279-473C-A0FA-B010CB12B562}.Debug|Win32.ActiveCfg = Debug|Win32
+		{23FC8C85-8279-473C-A0FA-B010CB12B562}.Debug|Win32.Build.0 = Debug|Win32
+		{23FC8C85-8279-473C-A0FA-B010CB12B562}.Release|Win32.ActiveCfg = Release|Win32
+		{23FC8C85-8279-473C-A0FA-B010CB12B562}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
